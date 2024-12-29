@@ -42,8 +42,25 @@
 }
 
 .container{
+  /* background-image: url("https://cdn-icons-png.freepik.com/512/11265/11265857.png"); */
+  background-size: cover;
   position: relative;
   border: solid;
   height: 300px;
   width: 400px;
+}
+.rotateButton{
+  position: relative;
+  left: 30%;
+  width: 20px;
+  max-height: 30px;
+  font-size: 10pt;
+  padding:unset;
+  background-color:blue;
+}
+.contain{
+  max-width: fit-content;
+}
+.bed{
+  
 }

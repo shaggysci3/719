@@ -9,7 +9,9 @@ function App() {
 
   return (
     <>
-     <DraggableDiv name={"bed"} itemWidth={200} itemHeight={100}/>
+     <DraggableDiv name={"bed"} itemWidth={120} itemHeight={160}/>
+     
+
     </>
   )
 }
